@@ -1,7 +1,7 @@
 - 👋 Hi, We're Pasha and Masha in @powpowengineering
 - 👀 We're interested in robotics, electronics on arduino or other microcontrollers
 - 🌱 We're currently working on wether station for our friends scientists who work on Janquat glaicier in Elbrus region
-- 💞️ We're looking to collaborate on new robotics and electronic projects
+- 💞️ We're looking to collaboration on new robotics and electronic projects
 - 📫 How to reach us pow.pow.engineering@gmail.com
 
 <!---
